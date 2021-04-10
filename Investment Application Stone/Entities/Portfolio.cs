@@ -1,18 +1,24 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Investment_Application.Entities
 {
     class Portfolio
     {
-        public string User { get; set; }
         public List<FinancialAsset> FinancialAssets { get; set; } = new List<FinancialAsset>();
         public Portfolio()
         {
 
         }
-        public Portfolio(string user)
+
+        public void ShowOptions()
         {
-            User = user;
+            Console.WriteLine("Add New Finance Asset in your portfolio -> 1");
+            Console.WriteLine("See portfolio -> 2");
+            Console.WriteLine("Sell Finance Asset -> 3");
+            Console.WriteLine("See Portfolio Resume -> 4");
+            Console.WriteLine("See month resume -> 5");
+            Console.WriteLine("Stop Application -> 6");
         }
 
         public void NewAsset(FinancialAsset asset)
