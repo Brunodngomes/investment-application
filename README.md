@@ -30,11 +30,8 @@ Project developed during ** Stone Challenge ** offered by [Stone](https://www.st
 
 ## How it works
 
-This project have only one part:
 1. Download Pre-requisites
 2. Install and have fun!
-
-You need only Backend to be running to work.
 
 ### Pre-requisites
 
@@ -52,9 +49,6 @@ $ git clone git@github.com:brunodngomes/investment-application
 $ cd investment-application
 
 ```
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ---
 
@@ -62,19 +56,17 @@ $ cd investment-application
 
 The following tools were used in the construction of the project:
 -   Editor:  **[Visual Studio 2019](https://visualstudio.microsoft.com/pt-br/downloads/)**
--   Git: **[Git Bash](https://git-scm.com/downloads)**
+-   Git: **[Git](https://git-scm.com/downloads)**
 
 ---
 
 ## Contributors
 
-A big thanks to this group that made this product leave the field of idea and enter the app stores :)
-
-You are an awesome team! :)
+A big thanks to this man! :)
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ricardoianelli"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2482654?v=4" width="100px;" alt=""/><br /><sub><b>Ricardo Ianelli</b></sub></a><br /><a href="https://github.com/ricardoianelli" title="Stone"></a>  <a href="https://github.com/ricardoianelli" title="Blog">🌐</a></td>
+    <td align="center"><a href="https://github.com/ricardoianelli"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2482654?v=4" width="100px;" alt=""/><br /><sub><b>Ricardo Ianelli</b></sub></a><br /><a href="https://github.com/ricardoianelli" title="Stone"></a>
   </tr>
 </table>
 
