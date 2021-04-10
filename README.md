@@ -82,12 +82,12 @@ A big thanks to this man! :)
 ## Author
 
 <a href="https://github.com/brunodngomes/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="Thiago Marinho"/>
+ <img style="border-radius: 50%;" src="" width="100px;" alt="Bruno Gomes"/>
  <br />
  <sub><b>Bruno Gomes</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
  <br />
 
-[[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodngomes/)](https://www.linkedin.com/in/brunodngomes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunodngomes/)](https://www.linkedin.com/in/brunodngomes/)
 
 ---
 
