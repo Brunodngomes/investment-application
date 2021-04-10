@@ -1,5 +1,5 @@
 <h1 align="center">
-     <a href="#"> Investment Application </a>
+     <a href="https://github.com/brunodngomes/investment-application"> Investment Application </a>
 </h1>
 
 <h3 align="center">
@@ -43,11 +43,16 @@ Before you begin, you will need to have the following tools installed on your ma
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:brunodngomes/investment-application
+$ git clone https://github.com/brunodngomes/investment-application
 
 # Access the project folder cmd/terminal
-$ cd investment-application
+$ cd investment-application/investment application stone
 
+# Build the project
+$ dotnet build
+
+# Run the project
+$ dotnet run
 ```
 
 ---
