@@ -36,7 +36,7 @@ Project developed during ** Stone Challenge ** offered by [Stone](https://www.st
 ### Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Visual Studio Community Version 2019] (https://visualstudio.microsoft.com/pt-br/downloads/).
+[Git] (https://git-scm.com)
 
 #### Make run the application
 
@@ -45,7 +45,7 @@ Before you begin, you will need to have the following tools installed on your ma
 # Clone this repository
 $ git clone https://github.com/brunodngomes/investment-application
 
-# Access the project folder cmd/terminal
+# Access the project folder using cmd/terminal
 $ cd investment-application/investment application stone
 
 # Build the project
@@ -75,13 +75,6 @@ A big thanks to this man! :)
   </tr>
 </table>
 
-## How to contribute
-
-1. Fork the project.
-2. Create a new branch with your changes: `git checkout -b my-feature`
-3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
-4. Submit your changes: `git push origin my-feature`
-
 ---
 
 ## Author
@@ -101,3 +94,10 @@ A big thanks to this man! :)
 This project is under the license [MIT](./LICENSE).
 
 Made with love by Bruno Gomes 👋🏽 [Get in Touch!](https://www.linkedin.com/in/brunodngomes/)
+
+---
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
