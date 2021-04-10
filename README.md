@@ -82,7 +82,7 @@ A big thanks to this man! :)
 ## Author
 
 <a href="https://github.com/brunodngomes/">
- <img style="border-radius: 50%;" src="" width="100px;" alt="Bruno Gomes"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82287895?s=400&v=4" width="100px;" alt="Bruno Gomes"/>
  <br />
  <sub><b>Bruno Gomes</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
  <br />
