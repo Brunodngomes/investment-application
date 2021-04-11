@@ -65,18 +65,6 @@ The following tools were used in the construction of the project:
 
 ---
 
-## Contributors
-
-A big thanks to this man! :)
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ricardoianelli"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/2482654?v=4" width="100px;" alt=""/><br /><sub><b>Ricardo Ianelli</b></sub></a><br /><a href="https://github.com/ricardoianelli" title="Stone"></a>
-  </tr>
-</table>
-
----
-
 ## Author
 
 <a href="https://github.com/brunodngomes/">
